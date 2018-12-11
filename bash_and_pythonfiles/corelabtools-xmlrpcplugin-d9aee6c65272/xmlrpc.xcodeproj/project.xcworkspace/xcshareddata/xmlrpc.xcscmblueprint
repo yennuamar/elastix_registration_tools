@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74C76559B128E23E7337AB6B06CFE1F3CB92C68A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "900532B7E901BCF12B84E1C26A8435CC37B8DBFA" : 0,
+    "74C76559B128E23E7337AB6B06CFE1F3CB92C68A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6FEFD409-B7EC-42CF-8296-13F435A47577",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "900532B7E901BCF12B84E1C26A8435CC37B8DBFA" : "",
+    "74C76559B128E23E7337AB6B06CFE1F3CB92C68A" : "SCXML-RPC-Plugin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xmlrpc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xmlrpc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/corelabtools\/xmlrpcplugin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74C76559B128E23E7337AB6B06CFE1F3CB92C68A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pixmeo\/osirixplugins.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "900532B7E901BCF12B84E1C26A8435CC37B8DBFA"
+    }
+  ]
+}
